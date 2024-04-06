@@ -1,0 +1,16 @@
+{
+  "pessoas": [
+    {"nome": "Jordan", "idade": 27},
+    {"nome": "João", "idade": 25},
+    {"nome": "Maria", "idade": 30},
+    {"nome": "Pedro", "idade": 40},
+    {"nome": "Ana", "idade": 35},
+    {"nome": "Carlos", "idade": 28},
+    {"nome": "Julia", "idade": 22},
+    {"nome": "Fernanda", "idade": 37},
+    {"nome": "Rafael", "idade": 33},
+    {"nome": "Mariana", "idade": 29},
+    {"nome": "Lucas", "idade": 31},
+    {"nome": "Eric", "idade": 89}
+  ]
+}
